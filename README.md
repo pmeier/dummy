@@ -1,2 +1,3 @@
 # dummyfoo
 bar
+baz
