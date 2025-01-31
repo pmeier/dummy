@@ -1,3 +1,4 @@
 # dummyfoo
 foo
 foo
+foo
