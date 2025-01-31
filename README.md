@@ -1,2 +1,3 @@
 # dummyfoo
 foo
+foo
